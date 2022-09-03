@@ -4,10 +4,10 @@ export const config = {
    */
 
   // 公众号APP_ID
-  APP_ID: "",
+  APP_ID: "wxab19671f6368dd7b",
 
   // 公众号APP_SECRET
-  APP_SECRET: "",
+  APP_SECRET: "a71ad863311f508e96c7244e9208cf6e",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
@@ -68,7 +68,7 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ohxOO36VskY3v0Kuf-ywIZVR3MpuXhk",
+      id: "ouUBF6AEu6qHlKYYABLDPssmZCn8",
     }, 
   ],
     
